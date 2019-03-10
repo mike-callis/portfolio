@@ -9,3 +9,10 @@ h1 {
 .blue-title{
     color: blue;
 }
+
+.centered{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
